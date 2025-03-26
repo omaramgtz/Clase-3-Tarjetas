@@ -1,0 +1,95 @@
+body{
+    color: black;
+    background-color: rgb(116, 114, 114);
+}
+
+
+.padre{
+    background-color: rgb(225, 225, 225);
+    width: 160px;
+    height: 340px;
+    border-radius: 10px;
+}
+
+.fondo{
+    background-color: brown;
+    height: 100px;
+    width: 98%;
+    border-radius: 10px;
+    position: relative;
+    top: 1px;
+    left: 1px;
+}
+
+#textos{
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+#corazon{
+    height: 20px;
+    position: relative;
+    top: 5px;
+    left: 132px;
+}
+
+#avion{
+    width: 140px;
+    position: relative;
+    top: 25px;
+    left: 10px;
+}
+
+
+
+h1{
+    color: rgba(11, 120, 11, 0.468);
+    font-family: "Kaushan Script";
+}
+
+#primer_titulo{
+    color: brown;
+}
+
+#primer_titulo .titulo h2 h2{
+    color: blueviolet;
+}
+
+h2{
+    color: blue;
+    font-family: "Playwrite DK Loopet";
+}
+
+.titulo{
+    color: greenyellow;
+}
+
+h2{
+    color: aquamarine;
+}
+
+.kaushan-script-regular {
+    font-family: "Kaushan Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.playwrite-dk-loopet{
+    font-family: "Playwrite DK Loopet", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+.container{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+}
+
+.conteiner div{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(0, 0, 255);
+}
